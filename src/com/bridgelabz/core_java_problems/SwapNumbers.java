@@ -1,7 +1,7 @@
 package com.bridgelabz.core_java_problems;
 import java.util.Scanner;
 
-public class HarmonicSum {
+public class SwapNumbers {
 		  float numbers(){
 			float harmonic = 1;
 			float num = 1;
